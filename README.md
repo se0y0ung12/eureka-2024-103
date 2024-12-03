@@ -1,25 +1,73 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=FOR_VICTORY&fontSize=90)
 
 # 유레카프로젝트 3조
+> 승리를 위하여
+***
+
+### 1️⃣ 팀원 소개 
+<table>
+  <tr>
+    <th>20233477 정승운</th>
+    <th>20230083 민태강</th>
+    <th>20215209 윤미나</th>
+    <th>20190423 한윤구</th>
+    <th>20221926 허서영</th>
+  </tr>
+  <tr>
+    <td>소프트웨어학부</td>
+    <td>영어영문학부</td>
+    <td>소프트웨어학부</td>
+    <td>행정학부</td>
+    <td>소프트웨어학부</td>
+  </tr>
+  <tr>
+    <td>팀장</td>
+    <td>팀원</td>
+    <td>팀원</td>
+    <td>팀원</td>
+    <td>팀원</td>
+  </tr>
+  <tr>
+    <td>프론트엔드, 인공지능</td>
+    <td>웹/앱 개발</td>
+    <td>백엔드 웹/앱 개발, 데이터분석</td>
+    <td>앱개발, 프론트엔드</td>
+    <td>웹 백엔드, 인공지능</td>
+  </tr>
+</table>
+
 
 ***
 
-## ✨ 팀원 소개 ✨
-|20233477 정승운|20230083 민태강|20215209 윤미나|20190423 한윤구|20221926 허서영|
-|---|---|---|---|---|
-|소프트웨어학부|영어영문학부|소프트웨어학부|행정학부|소프트웨어학부|
-|팀장|팀원|팀원|팀원|팀원|
-
-***
-
-## ✨ 공통 관심사 ✨
+### 2️⃣ 공통 관심사 
 
 - 앱개발
 - 인공지능
 
 ***
 
-## ✨ 인상 깊은 활동 ✨
+### 3️⃣ 한학기 동안의 활동 내역 
+
+정보통신처 인터뷰 ✔️
+대학원생 인터뷰 ✔️
+보직교수님 인터뷰 ✔️
+행정실 인터뷰 ✔️
+서버실 탐방 ✔️
+멘토링 ✔️교수님 인터뷰 ✔️
+
+<img src="https://github.com/user-attachments/assets/d4e6102f-49dc-40af-b378-36602a2a30d1" width="330" height="190"/>
+<img src="https://github.com/user-attachments/assets/ec7358f2-d9cb-48d9-9d5d-aa23924adca5" width="330" height="190"/>
+<img src="https://github.com/user-attachments/assets/253c7bae-a39e-4cea-81fc-ab3acc858fcf" width="330" height="190"/>
+<img src="https://github.com/user-attachments/assets/0113c3b1-ca7b-4fbe-b978-31f0efd49d24" width="330" height="190"/>
+<img src="https://github.com/user-attachments/assets/20e87f98-e68c-4b8b-bc27-c9e072e0a08c" width="330" height="190"/>
+<img src="https://github.com/user-attachments/assets/02886255-08e8-4819-b1c9-f658bf3c6279" width="330" height="190"/>
+
+<img src="https://github.com/user-attachments/assets/6c5326b1-3ed6-45d4-b7c8-8bdedaf5bb8d" width="495" height="300"/>
+<img src="https://github.com/user-attachments/assets/88409b54-15e4-47eb-ad1f-ce8b2fd18c6a" width="495" height="300"/>
+
+***
+
+### 4️⃣ 인상 깊은 활동
 
 멘토링 활동 - 미국 취업에 관심이 있는 학생에게는 미국에서 커리어를 쌓는 방법을 알려주셔서 인상깊었습니다. 또한 실리콘 벨리에서 근무 중인 멘토님의 얘기를 직접 듣고 질문하며 실무적인 관점에서 접근하는 방법과 준비해야할 것을 현실적으로 답변해주셔서 앞으로 계획을 세우는데 도움이 되었습니다.
 
@@ -27,31 +75,13 @@
 
 ***
 
-## ✨ 한학기 동안의 활동 내역 ✨
-
-정보통신처 인터뷰 ✔️
-
-대학원생 인터뷰 ✔️
-
-보직교수님 인터뷰 ✔️
-
-행정실 인터뷰 ✔️
-
-서버실 탐방 ✔️
-
-멘토링 ✔️
-
-교수님 인터뷰 ✔️
-
-***
-
-## ✨ 특별히 알아보고 싶은 것 ✨
+### 5️⃣ 특별히 알아보고 싶은 것
 - 현장실습
 - TOPCIT정기평가
 
 ***  
 
-## ✨ 활동을 마친 소감 ✨
+### 6️⃣ 활동을 마친 소감
 
 🔗20233477 정승운
 
